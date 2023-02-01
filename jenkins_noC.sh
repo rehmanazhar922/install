@@ -21,5 +21,8 @@ sudo systemctl status jenkins
 
 #use the below command to get the password
 
+#Service
+sudo service jenkins start
+
 #Password
 more /var/lib/jenkins/secrets/initialAdminPassword
