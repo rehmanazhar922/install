@@ -1,3 +1,4 @@
+#EXEC: bash < <(curl -s https://raw.githubusercontent.com/rehmanazhar922/install/main/jenkins_noC.sh)
 #Jenkins has no installation candidate : error while trying to install jenkins on ubuntu system
 
 #Command 1
